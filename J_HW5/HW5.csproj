@@ -53,8 +53,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="libraries\DatabaseConnection.cs" />
-    <Compile Include="libraries\DbOperations.cs" />
     <Compile Include="lib\DatabaseOperations.cs" />
     <Compile Include="lib\DatabaseConnection.cs" />
     <Compile Include="Program.cs" />
